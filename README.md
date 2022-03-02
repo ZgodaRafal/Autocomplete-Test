@@ -35,7 +35,7 @@ Kenji
 The React application will only contain an input field. When you start typing in this field, we should see a list of matching names appearing below (see screenshot below).
 
 
-![Screenshot](https://github.com/Second-life-ca/Autocomplete-test/blob/main/screenshot.jpg?raw=true)
+![screenshot.jpg](https://github.com/Second-life-ca/Autocomplete-test/blob/main/screenshot.jpg?raw=true)
 
 
 ## How to start
