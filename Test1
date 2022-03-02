@@ -1,0 +1,19 @@
+const users = [
+  { id: 5, name: "Hippolyte" },
+  { id: 2, name: "Remi" },
+  { id: 3, name: "Rafal" },
+  { id: 4, name: "Quyen" },
+];
+
+const informations = [
+  { id: 1, user_id: 2, info: "info1", hp: 60, shield: 80 },
+  { id: 2, user_id: 3, info: "info2", hp: 50, shield: 85 },
+  { id: 3, user_id: 4, info: "info3", hp: 40, shield: 110 },
+  { id: 4, user_id: 5, info: "info4", hp: 75, shield: 90 },
+];
+
+// nouveau array voulu :
+const resultats = [
+  { user_id: 2, info: "info1", name: "Remi", hp: 60,shield: 80  },
+  //...
+];
