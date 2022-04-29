@@ -8,7 +8,7 @@ For this challenge, you will have to build a simple NodeJS server as well as a s
 
 **Server**
 
-The server will only contain a single endpoint returning a list of names.
+The server will contain an endpoint returning a list of names.
 
 ```
 GET https://localhost:8000/api/names
